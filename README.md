@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pivonski
 - 👀 I’m interested in Sport and Coding
-- 🌱 I’m currently learning C# and T-Sql on WSEI Kraków
+- 🌱 I’m currently learning Front-end Development on own and also C# and T-Sql on WSEI Kraków 
 - 💞️ I’m looking to get first IT job experience.
 - 📫 How to reach me : jakub.pivonski@gmail.com or ig @pivonski
 
